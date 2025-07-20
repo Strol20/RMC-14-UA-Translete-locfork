@@ -56,7 +56,7 @@
 # For WeYa civilians
 - type: entity
   parent: RMCHeadsetIconsWeYa
-  id: RMCHeadsetDistressWeY
+  id: RMCHeadsetDistressWeYa
   name: гарнітура корпората Ве-Я
   description: Ця гарнітура призначена для вух корпоратів.
   suffix: WeYa, Colony
