@@ -122,7 +122,7 @@
   parent: [ RMCRollerBedDestruction, BaseDeployFoldable ]
   id: RMCMedevacStretcher
   name: ноші для евакуації
-  description: Складні ноші, які можна активувати, щоб відправити пацієнта до шатла.
+  description: Складні ноші, які можна активувати, щоб відправити пацієнта до повітряного транспортника.
   components:
   - type: Item
     size: Small
