@@ -166,13 +166,13 @@
     state: cassette_hellfire
   - type: CassetteTape
     songs:
-    - /Audio/Jukebox/californiaDream.ogg
-    - /Audio/Jukebox/fortunaSon.ogg
-    - /Audio/Jukebox/welcomeToTheJungle.ogg
-    - /Audio/Jukebox/thisfire.ogg
-    - /Audio/Jukebox/sevenNationArmy.ogg
-    - /Audio/Jukebox/paranoid.ogg
-    - /Audio/Jukebox/paintInBlack.ogg
+    - /Audio/_Sich/Jukebox/californiaDream.ogg
+    - /Audio/_Sich/Jukebox/fortunaSon.ogg
+    - /Audio/_Sich/Jukebox/welcomeToTheJungle.ogg
+    - /Audio/_Sich/Jukebox/thisfire.ogg
+    - /Audio/_Sich/Jukebox/sevenNationArmy.ogg
+    - /Audio/_Sich/Jukebox/paranoid.ogg
+    - /Audio/_Sich/Jukebox/paintInBlack.ogg
 
 - type: entity
   parent: RMCCassetteTapeBase
@@ -183,7 +183,7 @@
     state: cassette_who_sold_world
   - type: CassetteTape
     songs:
-    - /Audio/Jukebox/theManWhoSoldTheWorld.ogg
+    - /Audio/_Sich/Jukebox/theManWhoSoldTheWorld.ogg
 
 
 - type: entity
@@ -195,5 +195,5 @@
     state: cassette_ua
   - type: CassetteTape
     songs:
-    - /Audio/Jukebox/dkEnergetikStreetEast.ogg
-    - /Audio/Jukebox/shubenuk.ogg
+    - /Audio/_Sich/Jukebox/dkEnergetikStreetEast.ogg
+    - /Audio/_Sich/Jukebox/shubenuk.ogg
