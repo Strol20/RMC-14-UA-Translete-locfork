@@ -15,8 +15,8 @@
 #Січ
 
 - type: entity
-  parent: RMCCassetteTapeBase
-  id: SichCassetteTapeSich
+  parent: SichCassetteTapeBase
+  id: CassetteTapeSich
   name: Касета з запальними піснями
   components:
   - type: Sprite
@@ -32,8 +32,8 @@
     - /Audio/_Sich/Jukebox/paintInBlack.ogg
 
 - type: entity
-  parent: RMCCassetteTapeBase
-  id: SichCassetteTapeManSoldWorldSich
+  parent: SichCassetteTapeBase
+  id: CassetteTapeManSoldWorldSich
   name: Касета від того, хто продав світ
   components:
   - type: Sprite
@@ -44,8 +44,8 @@
 
 
 - type: entity
-  parent: RMCCassetteTapeBase
-  id: SichCassetteTapeUaSich
+  parent: SichCassetteTapeBase
+  id: CassetteTapeUaSich
   name: Касета з українськими піснями
   components:
   - type: Sprite
